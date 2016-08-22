@@ -1,1 +1,10 @@
-/* Escribe tu css aqui */
+.yellow, .orange{
+	height: 100px;
+}
+.yellow{
+	background-color: #FD581F;
+}
+
+.orange{	
+	background-color: #FCF910;
+}
